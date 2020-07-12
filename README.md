@@ -1,4 +1,4 @@
-Price Index
+# Price Index
 
 The app queries and displays real-time Bitcoin exchange rates for USD, GBP and EUR.
 
